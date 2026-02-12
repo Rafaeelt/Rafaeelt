@@ -1,5 +1,5 @@
 <h2/> Olá tudo bem?! Bem vindo ao meu perfil <h2/>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! Me chamo Rafael e estou cursando o 3° ano do ensino médio técnico </h2>
 
 ###
 
