@@ -44,5 +44,5 @@ Olá! Sou o **Rafael**, atualmente cursando o **3° ano do Ensino Médio Técnic
 </div>
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rafaeelt&label=Perfil%20Views&color=blue&style=flat" alt="Rafaeelt" /> </p>
 <br clear="both">
