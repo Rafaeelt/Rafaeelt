@@ -1,4 +1,5 @@
 <h2> 💙 Olá me chamo Rafael! </h2>
+
 ## 🚀 Sobre mim
 
 Olá! Sou o **Rafael**, atualmente cursando o **3° ano do Ensino Médio Técnico em Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia e estou focado em construir uma base sólida em programação.
